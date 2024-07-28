@@ -1,3 +1,2 @@
 # gobang
-# gobang
-# gobang
+
